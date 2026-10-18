@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+python-multipart
+pdfplumber
+pytesseract
+pillow
+crewai
+python-dotenv
+pytest
